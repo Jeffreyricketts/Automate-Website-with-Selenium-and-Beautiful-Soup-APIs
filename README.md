@@ -17,6 +17,9 @@ A framework used to read, write or create Word documents. This was used to conve
 # London Quotes - Example Text:
 <img src="Images/London%20Quotes%20Text.png" width="400">
 
+# Python code to transfer data:
+<img src="Images/London_Code.png" width="400">
+
 # Data transferred to Word:
 <img src="Images/Word_LondonQuotes.png" width="400">
 
