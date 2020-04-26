@@ -1,4 +1,4 @@
-# Automate-Website-with-Selenium-and-Beautiful-Soup
+# Automate a Website with Selenium and Beautiful-Soup
 Used Selenium, in cojunction with Beautiful Soup, to parse select data from my website into Word.
 
 # Selenium
@@ -11,14 +11,14 @@ A framework used to parse data from Web browsers(html) or other formats to Pytho
 A framework used to read, write or create Word documents. This was used to convert the html text data into a readable format.
 
 
-# London Quotes - Website
-
+# London Quotes - Website:
 <img src="Images/London%20Quotes.png" width="400">
 
-# London Quotes - Example Text
-
+# London Quotes - Example Text:
 <img src="Images/London%20Quotes%20Text.png" width="400">
-
+ 
+# Data transferred to Word:
+<img src="Images/Word_LondonQuotes.png" width="400">
 
 
 
