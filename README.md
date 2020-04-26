@@ -10,7 +10,5 @@ A framework used to parse data from Web browsers(html) or other formats to Pytho
 # Docx 
 A framework used to read, write or create Word documents. This was used to convert the html text data into a readable format.
 
-![London Quotes - Webpage](https://github.com/Jeffreyricketts/Automate-Website-with-Selenium-and-Beautiful-Soup/blob/master/London%20Quotes.png}
-
-![London Quotes - example text](https://github.com/Jeffreyricketts/Automate-Website-with-Selenium-and-Beautiful-Soup/blob/master/London%20Quotes%20Text.png}
+![](images/London Quotes.png)
  
