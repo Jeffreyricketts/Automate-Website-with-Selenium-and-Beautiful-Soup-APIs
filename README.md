@@ -1,4 +1,4 @@
-# Automate a Website with Selenium and Beautiful-Soup Api
+# Automate a Website with Selenium and Beautiful-Soup API
 Used Selenium, in cojunction with Beautiful Soup, to parse select data from my website into Word.
 
 # Selenium
